@@ -1,3 +1,3 @@
 function test(args) {
-  return 'Wow!'
+  return args.length;
 }
